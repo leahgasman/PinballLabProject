@@ -1,5 +1,5 @@
 # PinballLabProject
-This is the pinball game I designed and developed with my lab partner Amit Beltzer, for Technion course 044157.
+This is the pinball game I designed and developed with my lab partner Amit Belzer, for Technion course 044157.
 
 We used an FPGA with a VGA screen and a keyboard, and programmed in Quartus using Verilog.
 The task was to create a pinball game that contains a ball with balistic motion, two flippers that move horizontally, a score count and obstacles.
